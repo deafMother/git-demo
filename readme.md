@@ -19,3 +19,4 @@ changes : made on git hub
 changes : made by example brnach
 
 Modified by update readme branch
+modified by the locale remote update branch
